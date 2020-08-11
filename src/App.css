@@ -7,3 +7,19 @@
 .brand-icon{
   font-size:100px;
 }
+.example{
+  margin-left:70px;
+}
+.example input{
+  position:absolute;
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 90%;
+  background: #f1f1f1;
+  align:center;
+}
+.example input.form-control{
+  text-align:center;
+}
