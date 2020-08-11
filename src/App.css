@@ -8,7 +8,7 @@
   font-size:100px;
 }
 .example{
-  margin-left:70px;
+  margin-left:30px;
 }
 .example input{
   position:absolute;
@@ -16,7 +16,7 @@
   font-size: 17px;
   border: 1px solid grey;
   float: left;
-  width: 90%;
+  width: 85%;
   background: #f1f1f1;
   align:center;
 }
