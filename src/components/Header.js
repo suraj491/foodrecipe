@@ -6,6 +6,7 @@ const Header=props=>{
           <h1 className="display-1">
            <i class="material-icons brand-icon">fastfood</i>Food Recipe
            </h1>
+           <br/>
            <div class="input-group w-50 mx-auto">
             <input type="text" class="form-control" 
             placeholder="Search Your Recipe..." value={search} onChange={onInputChange}/>

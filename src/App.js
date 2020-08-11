@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Recipes from "./components/Recipes";
 import Axios from "axios";
 function App() {
-  const [search,setSearch]=useState("chicken");
+  const [search,setSearch]=useState("");
   const [recipes,setRecipes]=useState([]);
   const APP_ID="f9134a57";
   const APP_KEY="a6fe42f1fffc4abda13838a0d94bbcd3";
